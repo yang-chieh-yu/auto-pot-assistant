@@ -56,9 +56,8 @@
 
 &#x20;  在終端機輸入以下指令啟動主程式：
 
-&#x20;  `python auto\_pot.py`
+&#x20;  `python auto_pot.py`
 
-&#x20;  \*(註：若您已將主程式命名為其他名稱，請自行替換 `auto\_pot.py`)\*
 
 
 
