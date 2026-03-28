@@ -1,0 +1,12 @@
+{
+    "hp_threshold": 5,
+    "hp_key": "home",
+    "hp_y": 1294,
+    "hp_x_min": 1168,
+    "hp_x_max": 1442,
+    "mp_threshold": 20,
+    "mp_key": "page up",
+    "mp_y": 1300,
+    "mp_x_min": 1137,
+    "mp_x_max": 1577
+}
